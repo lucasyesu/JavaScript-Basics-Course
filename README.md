@@ -24,6 +24,6 @@ Bem-vindo ao repositório do curso básico de JavaScript! Este repositório cont
 O diretório `exercises` contém uma variedade de exercícios para ajudar a reforçar os conceitos aprendidos.
 
 ## Licença
-MIT. Sinta-se à vontade para utilizar, modificar e compartilhar conforme necessário.
+[LICENSE](LICENSE). Sinta-se à vontade para utilizar, modificar e compartilhar conforme necessário.
 
 Espero que este repositório seja útil para você no aprendizado do JavaScript! 😊
