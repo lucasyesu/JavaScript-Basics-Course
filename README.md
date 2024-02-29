@@ -1,4 +1,4 @@
-# JavaScript-Basics-Course
+# JavaScript Básico
 JavaScript Basics for Learning Exercises
 
 Bem-vindo ao repositório do curso básico de JavaScript! Este repositório contém materiais educativos, exemplos de código e exercícios práticos para ajudar você a aprender os fundamentos do JavaScript.
