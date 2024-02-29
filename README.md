@@ -20,7 +20,7 @@ Bem-vindo ao repositório do curso básico de JavaScript! Este repositório cont
    - Parâmetros e retorno de funções.
 
 ## Exercícios
-O diretório `exercises` contém uma variedade de exercícios para ajudar a reforçar os conceitos aprendidos.
+O diretório `exercicios-js` contém uma variedade de exercícios para ajudar a reforçar os conceitos aprendidos.
 
 ## Licença
 [MIT](LICENSE)
